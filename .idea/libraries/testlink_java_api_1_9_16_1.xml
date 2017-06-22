@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="testlink-java-api-1.9.16-1">
+    <CLASSES>
+      <root url="jar://C:/Program Files/Java/jre1.8.0_131/lib/testlink-java-api-1.9.16-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/testrail-api-master/java" />
+      <root url="jar://$USER_HOME$/Downloads/testrail-api-master.zip!/testrail-api-master/java" />
+    </SOURCES>
+  </library>
+</component>
