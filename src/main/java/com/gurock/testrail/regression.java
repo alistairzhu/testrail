@@ -13,8 +13,8 @@ public class regression {
 
 
     public static void main(String[] args) throws Exception {
-        int project_id = 29;
-        int suite_id = 332;
+        int project_id = 1;
+        int suite_id = 1;
 
         ArrayList<String[]> environmentsSet = new ArrayList<String[]>();
         environmentsSet.add(new String[]{"1", "Core", "ACe", "Google"});
