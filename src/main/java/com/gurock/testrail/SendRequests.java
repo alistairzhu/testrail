@@ -14,8 +14,8 @@ import com.gurock.testrail.Case;
 
 public class SendRequests {
 
-    static String user = "alistairzhu@gmail.com";
-    static String password = "d4qcH51/dK91aaDtA8iN-GJu9qyyxy03K/zks9bKP";
+    static String user = "";
+    static String password = "";
     static APIClient client;
     static ArrayList <Case> allCases = new ArrayList<Case>();
     static Case  aCase ;
